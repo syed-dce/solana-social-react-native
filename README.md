@@ -1,1 +1,0 @@
-# solana-social-react-native
